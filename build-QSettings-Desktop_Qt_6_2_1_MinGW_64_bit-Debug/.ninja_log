@@ -1,0 +1,48 @@
+# ninja log v5
+2	276	6669031404637341	QSettings_autogen/timestamp	9d087b7b7cabb3f2
+2	276	6669031404637341	QSettings_autogen/mocs_compilation.cpp	9d087b7b7cabb3f2
+2	276	6669031404637341	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QSettings-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QSettings_autogen/timestamp	9d087b7b7cabb3f2
+2	276	6669031404637341	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QSettings-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QSettings_autogen/mocs_compilation.cpp	9d087b7b7cabb3f2
+278	362	6669031406516264	CMakeFiles/QSettings.dir/QSettings_autogen/mocs_compilation.cpp.obj	6d5a3862fcbb694a
+281	4995	6669031452907869	CMakeFiles/QSettings.dir/main.cpp.obj	cb2c65562af2b34a
+5002	5239	6669031455276423	QSettings.exe	f000e6a030a9052f
+21	253	6669032167292780	QSettings_autogen/timestamp	9d087b7b7cabb3f2
+21	253	6669032167292780	QSettings_autogen/mocs_compilation.cpp	9d087b7b7cabb3f2
+21	253	6669032167292780	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QSettings-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QSettings_autogen/timestamp	9d087b7b7cabb3f2
+21	253	6669032167292780	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QSettings-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QSettings_autogen/mocs_compilation.cpp	9d087b7b7cabb3f2
+260	4709	6669032211830457	CMakeFiles/QSettings.dir/main.cpp.obj	cb2c65562af2b34a
+4710	4930	6669032213999088	QSettings.exe	f000e6a030a9052f
+16	223	6669033141785067	QSettings_autogen/timestamp	9d087b7b7cabb3f2
+16	223	6669033141785067	QSettings_autogen/mocs_compilation.cpp	9d087b7b7cabb3f2
+16	223	6669033141785067	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QSettings-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QSettings_autogen/timestamp	9d087b7b7cabb3f2
+16	223	6669033141785067	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QSettings-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QSettings_autogen/mocs_compilation.cpp	9d087b7b7cabb3f2
+230	4817	6669033187716110	CMakeFiles/QSettings.dir/main.cpp.obj	cb2c65562af2b34a
+4818	5071	6669033190184558	QSettings.exe	f000e6a030a9052f
+18	273	6669677098867278	QSettings_autogen/timestamp	9d087b7b7cabb3f2
+18	273	6669677098867278	QSettings_autogen/mocs_compilation.cpp	9d087b7b7cabb3f2
+18	273	6669677098867278	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QSettings-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QSettings_autogen/timestamp	9d087b7b7cabb3f2
+18	273	6669677098867278	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QSettings-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QSettings_autogen/mocs_compilation.cpp	9d087b7b7cabb3f2
+280	5319	6669677149315978	CMakeFiles/QSettings.dir/main.cpp.obj	cb2c65562af2b34a
+5320	5568	6669677151756937	QSettings.exe	f000e6a030a9052f
+16	303	6669786958480989	QSettings_autogen/timestamp	9d087b7b7cabb3f2
+16	303	6669786958480989	QSettings_autogen/mocs_compilation.cpp	9d087b7b7cabb3f2
+16	303	6669786958480989	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QSettings-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QSettings_autogen/timestamp	9d087b7b7cabb3f2
+16	303	6669786958480989	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QSettings-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QSettings_autogen/mocs_compilation.cpp	9d087b7b7cabb3f2
+312	5148	6669787006931303	CMakeFiles/QSettings.dir/main.cpp.obj	cb2c65562af2b34a
+5149	5457	6669787009969441	QSettings.exe	f000e6a030a9052f
+20	303	6669793996673670	QSettings_autogen/timestamp	9d087b7b7cabb3f2
+20	303	6669793996673670	QSettings_autogen/mocs_compilation.cpp	9d087b7b7cabb3f2
+20	303	6669793996673670	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QSettings-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QSettings_autogen/timestamp	9d087b7b7cabb3f2
+20	303	6669793996673670	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QSettings-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QSettings_autogen/mocs_compilation.cpp	9d087b7b7cabb3f2
+314	5856	6669794052189711	CMakeFiles/QSettings.dir/main.cpp.obj	cb2c65562af2b34a
+5857	6139	6669794054918021	QSettings.exe	f000e6a030a9052f
+11	299	6669961999701262	QSettings_autogen/timestamp	9d087b7b7cabb3f2
+11	299	6669961999701262	QSettings_autogen/mocs_compilation.cpp	9d087b7b7cabb3f2
+11	299	6669961999701262	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QSettings-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QSettings_autogen/timestamp	9d087b7b7cabb3f2
+11	299	6669961999701262	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QSettings-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QSettings_autogen/mocs_compilation.cpp	9d087b7b7cabb3f2
+310	5186	6669962048579034	CMakeFiles/QSettings.dir/main.cpp.obj	cb2c65562af2b34a
+5187	5495	6669962051597182	QSettings.exe	f000e6a030a9052f
+18	278	6669962348531379	QSettings_autogen/timestamp	9d087b7b7cabb3f2
+18	278	6669962348531379	QSettings_autogen/mocs_compilation.cpp	9d087b7b7cabb3f2
+18	278	6669962348531379	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QSettings-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QSettings_autogen/timestamp	9d087b7b7cabb3f2
+18	278	6669962348531379	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QSettings-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QSettings_autogen/mocs_compilation.cpp	9d087b7b7cabb3f2

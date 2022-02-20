@@ -1,0 +1,14 @@
+# ninja log v5
+2	382	6670970631904533	QTextStream_autogen/timestamp	ed68909f8c9c7d85
+2	382	6670970631904533	QTextStream_autogen/mocs_compilation.cpp	ed68909f8c9c7d85
+2	382	6670970631904533	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QTextStream-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QTextStream_autogen/timestamp	ed68909f8c9c7d85
+2	382	6670970631904533	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QTextStream-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QTextStream_autogen/mocs_compilation.cpp	ed68909f8c9c7d85
+383	588	6670970635602260	CMakeFiles/QTextStream.dir/QTextStream_autogen/mocs_compilation.cpp.obj	bbce0459d87c0486
+388	5135	6670970681154397	CMakeFiles/QTextStream.dir/main.cpp.obj	859b718a3435cb62
+5144	5439	6670970684132557	QTextStream.exe	f21ac6da267c47bf
+22	311	6670972103249075	QTextStream_autogen/timestamp	ed68909f8c9c7d85
+22	311	6670972103249075	QTextStream_autogen/mocs_compilation.cpp	ed68909f8c9c7d85
+22	311	6670972103249075	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QTextStream-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QTextStream_autogen/timestamp	ed68909f8c9c7d85
+22	311	6670972103249075	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QTextStream-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QTextStream_autogen/mocs_compilation.cpp	ed68909f8c9c7d85
+320	4950	6670972149650662	CMakeFiles/QTextStream.dir/main.cpp.obj	859b718a3435cb62
+4951	5215	6670972152229073	QTextStream.exe	f21ac6da267c47bf

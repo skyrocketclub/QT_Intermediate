@@ -1,0 +1,14 @@
+# ninja log v5
+3	389	6670901619632324	Reading_files_autogen/timestamp	f4a395b3efdb5fe0
+3	389	6670901619632324	Reading_files_autogen/mocs_compilation.cpp	f4a395b3efdb5fe0
+3	389	6670901619632324	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Reading_files-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Reading_files_autogen/timestamp	f4a395b3efdb5fe0
+3	389	6670901619632324	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Reading_files-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Reading_files_autogen/mocs_compilation.cpp	f4a395b3efdb5fe0
+390	569	6670901622910312	CMakeFiles/Reading_files.dir/Reading_files_autogen/mocs_compilation.cpp.obj	8325b3d1e403a8fa
+395	5065	6670901668132655	CMakeFiles/Reading_files.dir/main.cpp.obj	c268bc91324851b0
+5075	5340	6670901670820974	Reading_files.exe	31837217e4404d7a
+18	288	6670902215385895	Reading_files_autogen/timestamp	f4a395b3efdb5fe0
+18	288	6670902215385895	Reading_files_autogen/mocs_compilation.cpp	f4a395b3efdb5fe0
+18	288	6670902215385895	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Reading_files-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Reading_files_autogen/timestamp	f4a395b3efdb5fe0
+18	288	6670902215385895	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Reading_files-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Reading_files_autogen/mocs_compilation.cpp	f4a395b3efdb5fe0
+299	4759	6670902260068510	CMakeFiles/Reading_files.dir/main.cpp.obj	c268bc91324851b0
+4761	5021	6670902262696912	Reading_files.exe	31837217e4404d7a

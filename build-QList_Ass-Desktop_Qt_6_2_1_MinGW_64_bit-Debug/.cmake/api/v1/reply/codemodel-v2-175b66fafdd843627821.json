@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QList_Ass",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QList_Ass::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QList_Ass-Debug-9172e70802c664a9b45e.json",
+					"name" : "QList_Ass",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QList_Ass_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QList_Ass_autogen-Debug-d47a010b396a31746847.json",
+					"name" : "QList_Ass_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QList_Ass_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QList_Ass_autogen_timestamp_deps-Debug-1d19bd41042b082e5d55.json",
+					"name" : "QList_Ass_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QList_Ass-Desktop_Qt_6_2_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/QList_Ass"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

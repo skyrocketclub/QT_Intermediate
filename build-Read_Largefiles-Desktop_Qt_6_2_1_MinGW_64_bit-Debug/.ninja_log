@@ -1,0 +1,8 @@
+# ninja log v5
+2	344	6670949146531332	Read_Largefiles_autogen/timestamp	37f73c9c2ad37426
+2	344	6670949146531332	Read_Largefiles_autogen/mocs_compilation.cpp	37f73c9c2ad37426
+2	344	6670949146531332	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Read_Largefiles-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Read_Largefiles_autogen/timestamp	37f73c9c2ad37426
+2	344	6670949146531332	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Read_Largefiles-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Read_Largefiles_autogen/mocs_compilation.cpp	37f73c9c2ad37426
+346	602	6670949150014716	CMakeFiles/Read_Largefiles.dir/Read_Largefiles_autogen/mocs_compilation.cpp.obj	c70308b8c0aa8c73
+354	5082	6670949195356990	CMakeFiles/Read_Largefiles.dir/main.cpp.obj	777a7a49c237f097
+5091	5364	6670949198045314	Read_Largefiles.exe	b1ad5ac4edc48c8a

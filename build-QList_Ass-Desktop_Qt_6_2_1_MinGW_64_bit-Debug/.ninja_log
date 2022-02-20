@@ -1,0 +1,14 @@
+# ninja log v5
+2	489	6668981622017704	QList_Ass_autogen/timestamp	b335783da6f5561d
+2	489	6668981622017704	QList_Ass_autogen/mocs_compilation.cpp	b335783da6f5561d
+2	489	6668981622017704	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QList_Ass-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QList_Ass_autogen/timestamp	b335783da6f5561d
+2	489	6668981622017704	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QList_Ass-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QList_Ass_autogen/mocs_compilation.cpp	b335783da6f5561d
+490	939	6668981628733604	CMakeFiles/QList_Ass.dir/QList_Ass_autogen/mocs_compilation.cpp.obj	c2257e61724bd62d
+495	5583	6668981675365089	CMakeFiles/QList_Ass.dir/main.cpp.obj	a4c93e2c9aab2e92
+5592	5885	6668981678273255	QList_Ass.exe	eacd5eca162eb5bd
+20	301	6668983189659245	QList_Ass_autogen/timestamp	b335783da6f5561d
+20	301	6668983189659245	QList_Ass_autogen/mocs_compilation.cpp	b335783da6f5561d
+20	301	6668983189659245	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QList_Ass-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QList_Ass_autogen/timestamp	b335783da6f5561d
+20	301	6668983189659245	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QList_Ass-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QList_Ass_autogen/mocs_compilation.cpp	b335783da6f5561d
+310	5152	6668983238149524	CMakeFiles/QList_Ass.dir/main.cpp.obj	a4c93e2c9aab2e92
+5153	5437	6668983240957820	QList_Ass.exe	eacd5eca162eb5bd

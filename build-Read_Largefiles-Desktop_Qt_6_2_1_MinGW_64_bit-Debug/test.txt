@@ -1,0 +1,19 @@
+hello
+1
+2
+3
+4
+this is my test
+ QString filename = "test.txt";
+    QFile file(filename);
+
+    qInfo()<<"Exists: "<<file.exists();
+    if(file.open(QIODevice::ReadOnly)){
+        qInfo()<<file.readAll();//for small files only
+
+        file.close();
+    }
+     else{
+            qInfo()<<file.errorString();
+
+        }

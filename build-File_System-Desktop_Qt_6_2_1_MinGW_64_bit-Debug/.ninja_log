@@ -1,0 +1,8 @@
+# ninja log v5
+3	450	6670149593269120	File_System_autogen/timestamp	3e944ce602a8418e
+3	450	6670149593269120	File_System_autogen/mocs_compilation.cpp	3e944ce602a8418e
+3	450	6670149593269120	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-File_System-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/File_System_autogen/timestamp	3e944ce602a8418e
+3	450	6670149593269120	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-File_System-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/File_System_autogen/mocs_compilation.cpp	3e944ce602a8418e
+451	643	6670149596826933	CMakeFiles/File_System.dir/File_System_autogen/mocs_compilation.cpp.obj	7cc70f4578e38254
+456	6365	6670149654201801	CMakeFiles/File_System.dir/main.cpp.obj	18f6f8a7a50d9c4e
+6375	6735	6670149657809592	File_System.exe	b173e046fa0c1d14

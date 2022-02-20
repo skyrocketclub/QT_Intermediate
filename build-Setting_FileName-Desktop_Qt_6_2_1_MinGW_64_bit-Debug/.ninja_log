@@ -1,0 +1,14 @@
+# ninja log v5
+3	439	6670109635833430	Setting_FileName_autogen/timestamp	57b6759f746f4121
+3	439	6670109635833430	Setting_FileName_autogen/mocs_compilation.cpp	57b6759f746f4121
+3	439	6670109635833430	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Setting_FileName-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Setting_FileName_autogen/timestamp	57b6759f746f4121
+3	439	6670109635833430	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Setting_FileName-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Setting_FileName_autogen/mocs_compilation.cpp	57b6759f746f4121
+440	606	6670109639261327	CMakeFiles/Setting_FileName.dir/Setting_FileName_autogen/mocs_compilation.cpp.obj	c95189839febccbf
+444	5113	6670109684453676	CMakeFiles/Setting_FileName.dir/main.cpp.obj	8e09ce418b7e299b
+5123	5377	6670109687052067	Setting_FileName.exe	ff7b31f9c121c9d6
+17	251	6670116456723002	Setting_FileName_autogen/timestamp	57b6759f746f4121
+17	251	6670116456723002	Setting_FileName_autogen/mocs_compilation.cpp	57b6759f746f4121
+17	251	6670116456723002	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Setting_FileName-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Setting_FileName_autogen/timestamp	57b6759f746f4121
+17	251	6670116456723002	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Setting_FileName-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Setting_FileName_autogen/mocs_compilation.cpp	57b6759f746f4121
+260	4991	6670116504113963	CMakeFiles/Setting_FileName.dir/main.cpp.obj	8e09ce418b7e299b
+4992	5261	6670116506762356	Setting_FileName.exe	ff7b31f9c121c9d6
