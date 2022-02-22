@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lock_file",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lock_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lock_file-Debug-39d78dfc081d0a9223b8.json",
+					"name" : "Lock_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lock_file_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lock_file_autogen-Debug-579ccc69f56b0d5f10d0.json",
+					"name" : "Lock_file_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lock_file_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lock_file_autogen_timestamp_deps-Debug-6c1e8358ae2acf822ecb.json",
+					"name" : "Lock_file_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Lock_file-Desktop_Qt_6_2_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/Lock_file"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

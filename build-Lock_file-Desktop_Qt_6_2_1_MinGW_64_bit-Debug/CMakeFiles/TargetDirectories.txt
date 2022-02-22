@@ -1,0 +1,5 @@
+C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Lock_file-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/Lock_file.dir
+C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Lock_file-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Lock_file-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Lock_file-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/Lock_file_autogen_timestamp_deps.dir
+C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Lock_file-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/Lock_file_autogen.dir

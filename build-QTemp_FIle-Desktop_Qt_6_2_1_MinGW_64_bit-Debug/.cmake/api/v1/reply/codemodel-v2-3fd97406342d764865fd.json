@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QTemp_FIle",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QTemp_FIle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QTemp_FIle-Debug-410f3a4e08f93fbfa53b.json",
+					"name" : "QTemp_FIle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QTemp_FIle_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QTemp_FIle_autogen-Debug-7d41bf1d468093ccae41.json",
+					"name" : "QTemp_FIle_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QTemp_FIle_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QTemp_FIle_autogen_timestamp_deps-Debug-6e08aca641969d874530.json",
+					"name" : "QTemp_FIle_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QTemp_FIle-Desktop_Qt_6_2_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/QTemp_FIle"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

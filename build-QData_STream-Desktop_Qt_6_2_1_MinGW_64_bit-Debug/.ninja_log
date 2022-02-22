@@ -1,0 +1,8 @@
+# ninja log v5
+2	383	6671303548821704	QData_STream_autogen/timestamp	ef914d999d2d2d3b
+2	383	6671303548821704	QData_STream_autogen/mocs_compilation.cpp	ef914d999d2d2d3b
+2	383	6671303548821704	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QData_STream-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QData_STream_autogen/timestamp	ef914d999d2d2d3b
+2	383	6671303548821704	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QData_STream-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QData_STream_autogen/mocs_compilation.cpp	ef914d999d2d2d3b
+385	625	6671303552369528	CMakeFiles/QData_STream.dir/QData_STream_autogen/mocs_compilation.cpp.obj	723a0386c6a3dae7
+390	4963	6671303596322615	CMakeFiles/QData_STream.dir/main.cpp.obj	24582866d37f1511
+4971	5232	6671303598951031	QData_STream.exe	7bfacdc3ffcb3e6c

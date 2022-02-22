@@ -42,7 +42,9 @@ int main(int argc, char *argv[])
 
     QString filename = "test.txt";
     QFile file(filename);
+
     if(file.open(QIODevice::ReadWrite)){
+
         QTextStream stream(&file);
         qInfo()<<"Encoding:"<<stream.encoding();
 

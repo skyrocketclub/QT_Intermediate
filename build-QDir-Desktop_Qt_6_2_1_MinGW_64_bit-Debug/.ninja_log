@@ -1,0 +1,26 @@
+# ninja log v5
+3	371	6671312801350238	QDir_autogen/timestamp	9e4e28a9217514ff
+3	371	6671312801350238	QDir_autogen/mocs_compilation.cpp	9e4e28a9217514ff
+3	371	6671312801350238	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QDir-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QDir_autogen/timestamp	9e4e28a9217514ff
+3	371	6671312801350238	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QDir-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QDir_autogen/mocs_compilation.cpp	9e4e28a9217514ff
+372	538	6671312804588256	CMakeFiles/QDir.dir/QDir_autogen/mocs_compilation.cpp.obj	ffefdcaeaae4ca51
+377	5254	6671312851789385	CMakeFiles/QDir.dir/main.cpp.obj	edf8a23637449b35
+5262	5527	6671312854437744	QDir.exe	3e44dfb1a2ab3355
+17	295	6671313676552489	QDir_autogen/timestamp	9e4e28a9217514ff
+17	295	6671313676552489	QDir_autogen/mocs_compilation.cpp	9e4e28a9217514ff
+17	295	6671313676552489	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QDir-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QDir_autogen/timestamp	9e4e28a9217514ff
+17	295	6671313676552489	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QDir-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QDir_autogen/mocs_compilation.cpp	9e4e28a9217514ff
+304	5047	6671313724023440	CMakeFiles/QDir.dir/main.cpp.obj	edf8a23637449b35
+5048	5304	6671313726541865	QDir.exe	3e44dfb1a2ab3355
+20	300	6671316222121682	QDir_autogen/timestamp	9e4e28a9217514ff
+20	300	6671316222121682	QDir_autogen/mocs_compilation.cpp	9e4e28a9217514ff
+20	300	6671316222121682	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QDir-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QDir_autogen/timestamp	9e4e28a9217514ff
+20	300	6671316222121682	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QDir-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QDir_autogen/mocs_compilation.cpp	9e4e28a9217514ff
+313	5024	6671316269372770	CMakeFiles/QDir.dir/main.cpp.obj	edf8a23637449b35
+5025	5305	6671316272121073	QDir.exe	3e44dfb1a2ab3355
+12	283	6671317234613234	QDir_autogen/timestamp	9e4e28a9217514ff
+12	283	6671317234613234	QDir_autogen/mocs_compilation.cpp	9e4e28a9217514ff
+12	283	6671317234613234	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QDir-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QDir_autogen/timestamp	9e4e28a9217514ff
+12	283	6671317234613234	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QDir-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/QDir_autogen/mocs_compilation.cpp	9e4e28a9217514ff
+293	5218	6671317283953034	CMakeFiles/QDir.dir/main.cpp.obj	edf8a23637449b35
+5219	5491	6671317286621375	QDir.exe	3e44dfb1a2ab3355

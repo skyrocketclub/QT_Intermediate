@@ -1,0 +1,8 @@
+# ninja log v5
+3	334	6671323009431756	Navigate_Dir_recursively_autogen/timestamp	5fbafba223438e88
+3	334	6671323009431756	Navigate_Dir_recursively_autogen/mocs_compilation.cpp	5fbafba223438e88
+3	334	6671323009431756	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Navigate_Dir_recursively-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Navigate_Dir_recursively_autogen/timestamp	5fbafba223438e88
+3	334	6671323009431756	C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Navigate_Dir_recursively-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/Navigate_Dir_recursively_autogen/mocs_compilation.cpp	5fbafba223438e88
+338	506	6671323012280004	CMakeFiles/Navigate_Dir_recursively.dir/Navigate_Dir_recursively_autogen/mocs_compilation.cpp.obj	2116d6031e9496d6
+342	5319	6671323060490513	CMakeFiles/Navigate_Dir_recursively.dir/main.cpp.obj	13581efb71139806
+5324	5580	6671323063078890	Navigate_Dir_recursively.exe	2b0b96f36e96b169

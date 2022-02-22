@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Navigate_Dir_recursively",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Navigate_Dir_recursively::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Navigate_Dir_recursively-Debug-2dac8246b4782d2fe20c.json",
+					"name" : "Navigate_Dir_recursively",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Navigate_Dir_recursively_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Navigate_Dir_recursively_autogen-Debug-664a4a3d648214831a88.json",
+					"name" : "Navigate_Dir_recursively_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Navigate_Dir_recursively_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Navigate_Dir_recursively_autogen_timestamp_deps-Debug-acb949ece0a8d5f117ad.json",
+					"name" : "Navigate_Dir_recursively_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Navigate_Dir_recursively-Desktop_Qt_6_2_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/NWANKITI UGOCHUKWU/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/Navigate_Dir_recursively"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
