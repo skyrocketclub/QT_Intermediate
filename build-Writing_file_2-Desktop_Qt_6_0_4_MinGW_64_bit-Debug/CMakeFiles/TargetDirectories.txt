@@ -1,0 +1,5 @@
+C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Writing_file_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/Writing_file_2.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Writing_file_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Writing_file_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Writing_file_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/Writing_file_2_autogen_timestamp_deps.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Writing_file_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/Writing_file_2_autogen.dir

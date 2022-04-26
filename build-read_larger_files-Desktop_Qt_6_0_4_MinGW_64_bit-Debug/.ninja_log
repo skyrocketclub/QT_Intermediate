@@ -1,0 +1,8 @@
+# ninja log v5
+2	452	6726846091062861	read_larger_files_autogen/timestamp	d88c014d8be05f46
+2	452	6726846091062861	read_larger_files_autogen/mocs_compilation.cpp	d88c014d8be05f46
+2	452	6726846091062861	C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-read_larger_files-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/read_larger_files_autogen/timestamp	d88c014d8be05f46
+2	452	6726846091062861	C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-read_larger_files-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/read_larger_files_autogen/mocs_compilation.cpp	d88c014d8be05f46
+453	523	6726846093458514	CMakeFiles/read_larger_files.dir/read_larger_files_autogen/mocs_compilation.cpp.obj	437ffa54ed83d475
+456	3299	6726846121210671	CMakeFiles/read_larger_files.dir/main.cpp.obj	f5406fc0b83f698
+3305	3490	6726846123065298	read_larger_files.exe	4e5af4fe3117ea8c

@@ -1,0 +1,8 @@
+# ninja log v5
+2	442	6726796014105821	QIODevice_autogen/timestamp	cc798ca170a62a16
+2	442	6726796014105821	QIODevice_autogen/mocs_compilation.cpp	cc798ca170a62a16
+2	442	6726796014105821	C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QIODevice-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/QIODevice_autogen/timestamp	cc798ca170a62a16
+2	442	6726796014105821	C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-QIODevice-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/QIODevice_autogen/mocs_compilation.cpp	cc798ca170a62a16
+444	589	6726796017245611	CMakeFiles/QIODevice.dir/QIODevice_autogen/mocs_compilation.cpp.obj	f7aeb3dfa4eb50ed
+455	3942	6726796050786227	CMakeFiles/QIODevice.dir/main.cpp.obj	c062fd535a316a31
+3949	4151	6726796052840946	QIODevice.exe	72e4c246c7064f01

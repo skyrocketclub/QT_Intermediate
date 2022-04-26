@@ -1,0 +1,14 @@
+# ninja log v5
+2	299	6726804715192874	Writing_file_2_autogen/timestamp	1d209b4f38aaf2b1
+2	299	6726804715192874	Writing_file_2_autogen/mocs_compilation.cpp	1d209b4f38aaf2b1
+2	299	6726804715192874	C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Writing_file_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Writing_file_2_autogen/timestamp	1d209b4f38aaf2b1
+2	299	6726804715192874	C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Writing_file_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Writing_file_2_autogen/mocs_compilation.cpp	1d209b4f38aaf2b1
+301	408	6726804717426911	CMakeFiles/Writing_file_2.dir/Writing_file_2_autogen/mocs_compilation.cpp.obj	ae786cf6e70228ac
+305	2965	6726804743108201	CMakeFiles/Writing_file_2.dir/main.cpp.obj	cffb1fbfa604e7b2
+2972	3149	6726804744903821	Writing_file_2.exe	5deb9ec6c515acdf
+9	431	6726805816707615	Writing_file_2_autogen/timestamp	1d209b4f38aaf2b1
+9	431	6726805816707615	Writing_file_2_autogen/mocs_compilation.cpp	1d209b4f38aaf2b1
+9	431	6726805816707615	C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Writing_file_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Writing_file_2_autogen/timestamp	1d209b4f38aaf2b1
+9	431	6726805816707615	C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Writing_file_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Writing_file_2_autogen/mocs_compilation.cpp	1d209b4f38aaf2b1
+437	2916	6726805841571580	CMakeFiles/Writing_file_2.dir/main.cpp.obj	cffb1fbfa604e7b2
+36	360	6726806364575385	Writing_file_2.exe	5deb9ec6c515acdf

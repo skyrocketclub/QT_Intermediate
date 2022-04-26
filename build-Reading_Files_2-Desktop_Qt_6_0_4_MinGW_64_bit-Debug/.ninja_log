@@ -1,0 +1,14 @@
+# ninja log v5
+2	411	6726837373230980	Reading_Files_2_autogen/timestamp	28f63410a8fcb188
+2	411	6726837373230980	Reading_Files_2_autogen/mocs_compilation.cpp	28f63410a8fcb188
+2	411	6726837373230980	C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Reading_Files_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Reading_Files_2_autogen/timestamp	28f63410a8fcb188
+2	411	6726837373230980	C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Reading_Files_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Reading_Files_2_autogen/mocs_compilation.cpp	28f63410a8fcb188
+412	494	6726837376605703	CMakeFiles/Reading_Files_2.dir/Reading_Files_2_autogen/mocs_compilation.cpp.obj	cec4307d1169c021
+416	3076	6726837402424989	CMakeFiles/Reading_Files_2.dir/main.cpp.obj	a3e2679c0bdbad40
+3081	3257	6726837404189852	Reading_Files_2.exe	160c08b68cdbc7f3
+18	274	6726837982234344	Reading_Files_2_autogen/timestamp	28f63410a8fcb188
+18	274	6726837982234344	Reading_Files_2_autogen/mocs_compilation.cpp	28f63410a8fcb188
+18	274	6726837982234344	C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Reading_Files_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Reading_Files_2_autogen/timestamp	28f63410a8fcb188
+18	274	6726837982234344	C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Reading_Files_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Reading_Files_2_autogen/mocs_compilation.cpp	28f63410a8fcb188
+282	2496	6726838004484817	CMakeFiles/Reading_Files_2.dir/main.cpp.obj	a3e2679c0bdbad40
+2497	2668	6726838006170316	Reading_Files_2.exe	160c08b68cdbc7f3
