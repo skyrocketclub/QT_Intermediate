@@ -1,0 +1,8 @@
+# ninja log v5
+2	493	6732172361109330	timers_autogen/timestamp	beb3fcce649d88a3
+2	493	6732172361109330	timers_autogen/mocs_compilation.cpp	beb3fcce649d88a3
+2	493	6732172361109330	C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-timers-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/timers_autogen/timestamp	beb3fcce649d88a3
+2	493	6732172361109330	C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-timers-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/timers_autogen/mocs_compilation.cpp	beb3fcce649d88a3
+494	592	6732172363413137	CMakeFiles/timers.dir/timers_autogen/mocs_compilation.cpp.obj	f7f3e0990ff8c19a
+501	2823	6732172385693561	CMakeFiles/timers.dir/main.cpp.obj	5a9228facdecc745
+2828	3056	6732172387937974	timers.exe	157a2c68bae7fe2b
