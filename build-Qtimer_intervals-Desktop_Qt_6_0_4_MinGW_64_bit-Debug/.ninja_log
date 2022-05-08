@@ -1,0 +1,9 @@
+# ninja log v5
+2	1374	6732764333665160	Qtimer_intervals_autogen/timestamp	5a3edc6c738f56ac
+2	1374	6732764333665160	Qtimer_intervals_autogen/mocs_compilation.cpp	5a3edc6c738f56ac
+2	1374	6732764333665160	C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Qtimer_intervals-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Qtimer_intervals_autogen/timestamp	5a3edc6c738f56ac
+2	1374	6732764333665160	C:/Users/user/Desktop/CPP ++/My C++ Projects/Qt6_Intermediate/build-Qtimer_intervals-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Qtimer_intervals_autogen/mocs_compilation.cpp	5a3edc6c738f56ac
+1378	4877	6732764371112789	CMakeFiles/Qtimer_intervals.dir/main.cpp.obj	f3eca6faae0a9078
+1375	4925	6732764371610359	CMakeFiles/Qtimer_intervals.dir/Qtimer_intervals_autogen/mocs_compilation.cpp.obj	35b938b764898ec5
+1382	4953	6732764371895105	CMakeFiles/Qtimer_intervals.dir/test.cpp.obj	92fb320e81fedd39
+4954	5237	6732764374560049	Qtimer_intervals.exe	b9a7c578c3922f3a
